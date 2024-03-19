@@ -1,0 +1,26 @@
+name: On Pull Request
+
+on:
+  pull_request:
+    branches:
+      - main
+      - dev
+      - release/*
+    types:
+      - ready_for_review
+      - opened
+      - reopened
+      - synchronize
+
+jobs:
+  build:
+    uses: ./.github/workflows/build.yml
+  dump-vars:
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+      - name: Dump build info
+        env:
+          REL_INFO: ${{ toJson(needs.build.outputs) }}
+        run: echo "$REL_INFO"
+  

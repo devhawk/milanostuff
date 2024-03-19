@@ -1,71 +1,12 @@
 # milanostuff README
 
-This is the README for your extension "milanostuff". After writing up a brief description, we recommend including the following sections.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Cras pulvinar mattis nunc sed blandit libero volutpat. Diam sit amet nisl suscipit adipiscing bibendum est ultricies. Auctor augue mauris augue neque. In massa tempor nec feugiat nisl. Id cursus metus aliquam eleifend mi in nulla posuere sollicitudin. Quam pellentesque nec nam aliquam sem et tortor consequat. Mauris vitae ultricies leo integer malesuada nunc vel risus commodo. Massa placerat duis ultricies lacus sed turpis tincidunt. At imperdiet dui accumsan sit amet. Sit amet risus nullam eget felis eget. Placerat in egestas erat imperdiet sed euismod nisi porta. Quam lacus suspendisse faucibus interdum posuere lorem ipsum. Malesuada fames ac turpis egestas maecenas pharetra convallis posuere. Nulla malesuada pellentesque elit eget gravida cum sociis natoque penatibus. Scelerisque eleifend donec pretium vulputate sapien nec. Egestas purus viverra accumsan in nisl. Sit amet commodo nulla facilisi nullam vehicula ipsum a arcu. Phasellus vestibulum lorem sed risus.
 
-## Features
+Lacinia quis vel eros donec. Urna neque viverra justo nec ultrices dui sapien. Quisque sagittis purus sit amet volutpat. Nibh sit amet commodo nulla facilisi. Aliquam malesuada bibendum arcu vitae elementum curabitur. In ante metus dictum at tempor. At lectus urna duis convallis. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Pellentesque habitant morbi tristique senectus et netus. Auctor neque vitae tempus quam. Tortor at auctor urna nunc id cursus metus aliquam. Consectetur adipiscing elit ut aliquam purus sit. Dolor sit amet consectetur adipiscing elit.
 
-Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
+Maecenas sed enim ut sem viverra aliquet eget sit. Nisl pretium fusce id velit ut tortor pretium viverra. Dignissim cras tincidunt lobortis feugiat vivamus at. Ut lectus arcu bibendum at. Duis ut diam quam nulla porttitor massa id neque aliquam. Massa massa ultricies mi quis hendrerit dolor magna eget est. Lectus quam id leo in. Laoreet non curabitur gravida arcu ac. Vulputate dignissim suspendisse in est. Pulvinar mattis nunc sed blandit libero volutpat sed. Interdum consectetur libero id faucibus nisl tincidunt eget nullam non. Faucibus ornare suspendisse sed nisi lacus sed viverra tellus in. Sed turpis tincidunt id aliquet risus feugiat. Imperdiet sed euismod nisi porta lorem mollis aliquam. Pretium lectus quam id leo.
 
-For example if there is an image subfolder under your extension project workspace:
+Sed vulputate odio ut enim. Urna neque viverra justo nec ultrices dui sapien. Amet massa vitae tortor condimentum lacinia quis vel eros donec. Leo a diam sollicitudin tempor id eu nisl nunc. Consequat nisl vel pretium lectus. Tempor commodo ullamcorper a lacus. Suspendisse interdum consectetur libero id faucibus nisl tincidunt eget nullam. Neque volutpat ac tincidunt vitae. Id aliquet lectus proin nibh nisl condimentum id venenatis a. Adipiscing at in tellus integer feugiat scelerisque varius morbi enim. Ut faucibus pulvinar elementum integer. Felis donec et odio pellentesque. Sit amet nisl purus in mollis nunc sed id. Adipiscing elit ut aliquam purus sit amet. Magna etiam tempor orci eu lobortis elementum nibh tellus molestie. Sed vulputate mi sit amet mauris commodo quis. Vitae tempus quam pellentesque nec. Vitae turpis massa sed elementum tempus egestas sed sed. Ut eu sem integer vitae. Vel facilisis volutpat est velit egestas dui id.
 
-\!\[feature X\]\(images/feature-x.png\)
+Justo donec enim diam vulputate ut pharetra sit amet. A cras semper auctor neque. Aliquet enim tortor at auctor. Amet nisl purus in mollis nunc. Tempus egestas sed sed risus pretium quam vulputate dignissim. Ac turpis egestas maecenas pharetra. Nibh venenatis cras sed felis eget velit. Mauris in aliquam sem fringilla ut morbi. Augue interdum velit euismod in pellentesque massa placerat duis ultricies. Viverra ipsum nunc aliquet bibendum enim facilisis. Pellentesque eu tincidunt tortor aliquam nulla.
 
-> Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
-
-## Requirements
-
-If you have any requirements or dependencies, add a section describing those and how to install and configure them.
-
-## Extension Settings
-
-Include if your extension adds any VS Code settings through the `contributes.configuration` extension point.
-
-For example:
-
-This extension contributes the following settings:
-
-* `myExtension.enable`: Enable/disable this extension.
-* `myExtension.thing`: Set to `blah` to do something.
-
-## Known Issues
-
-Calling out known issues can help limit users opening duplicate issues against your extension.
-
-## Release Notes
-
-Users appreciate release notes as you update your extension.
-
-### 1.0.0
-
-Initial release of ...
-
-### 1.0.1
-
-Fixed issue #.
-
-### 1.1.0
-
-Added features X, Y, and Z.
-
----
-
-## Following extension guidelines
-
-Ensure that you've read through the extensions guidelines and follow the best practices for creating your extension.
-
-* [Extension Guidelines](https://code.visualstudio.com/api/references/extension-guidelines)
-
-## Working with Markdown
-
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
-
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
